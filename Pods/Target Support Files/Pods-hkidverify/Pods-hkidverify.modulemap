@@ -1,0 +1,6 @@
+framework module Pods_hkidverify {
+  umbrella header "Pods-hkidverify-umbrella.h"
+
+  export *
+  module * { export * }
+}
